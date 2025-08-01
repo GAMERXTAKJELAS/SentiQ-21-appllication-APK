@@ -7,4 +7,4 @@
 
 ## 📜 License
 
-![License Image]()
+![License Image](https://github.com/syam-dev/my-android-app/raw/main/Certificate_SentiQ-21(MYIPO).jpeg)
